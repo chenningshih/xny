@@ -12,7 +12,7 @@ java+vue新能源汽车销售平台(计算机毕设)
 ![9794031ea9d047f6148de8a2d0a1478](https://github.com/user-attachments/assets/205ab428-077e-45e6-b97d-b7bb0cedfaa4)
 ![42cf49fde00ab584bcbe6f5dcada7fc](https://github.com/user-attachments/assets/dbd6c074-4b24-4f0a-908a-5ae8f0f0122f)
 ![34216ba7fe8626a5abb48f41bb3eee4](https://github.com/user-attachments/assets/c6811492-a05c-4b65-8b57-f6ee93a60631)
-更多代码及细节加vx获取
+更多代码及细节加vx: chenningshi_cn获取
 ![dee564d98cf55639b70347018ac3dcf](https://github.com/user-attachments/assets/49194fd9-48c3-4a66-a199-2a9404fe1a6f)
 
 
