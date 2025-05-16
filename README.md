@@ -1,4 +1,4 @@
-![b0fbd48c65ef52fbd2fc410ced2ce99](https://github.com/user-attachments/assets/a9355313-e7c8-4cc8-a1c7-a3078babeffa)# xny
+.# xny
 java+vue新能源汽车销售平台(计算机毕设)
 
 项目有
